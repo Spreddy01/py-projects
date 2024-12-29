@@ -9,7 +9,7 @@ sender_email = "your_email@gmail.com"
 #here comes your password 
 password = "your_password"
 
-#here reciever info 
+#here comes the reciever info 
 sender_email = "your_email@gmail.com"
 receiver_email = "recipient@example.com"
 subject = "Hello from python email automation"
